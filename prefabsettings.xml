@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ThingMods>
+
+  
+    <!--
+    This changes the stack size for ItemIronOre to 1000 as well as changing the Render Distance
+    -->
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemIronOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData> 
+	
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemIce</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+
+<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemNitrice</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemVolatiles</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemOxite</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemUraniumOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemCoalOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemSilverOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemSiliconOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemNickelOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemLeadOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGoldOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemCopperOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>    
+    
+    <ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemCobaltOre</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemCableCoil</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData> 
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemCableCoilHeavy</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitPipe</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitInsulatedPipe</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitInsulatedLiquidPipe</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitPipeLiquid</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitCompositeFloorGrating</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGasFilterCarbonDioxide</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>4</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGasFilterPollutants</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>4</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGasFilterNitrogen</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>4</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGasFilterOxygen</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>4</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemGasFilterVolatiles</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>4</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemIronFrames</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemIronSheets</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemKitChute</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemSteelFrames</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemSteelSheets</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+	<ThingModData xsi:type="StackableModData">
+      <PrefabName>ItemSteelSheets</PrefabName>
+      <RenderDistance>20</RenderDistance>
+      <MaxQuantity>100</MaxQuantity>
+    </ThingModData>
+	
+
+    <!--
+    This changes the created regeant for the egg, making it provide two units of egg instead of one
+    when added to the microwave
+    -->
+   
+    
+  </ThingMods>
+</GameData>
